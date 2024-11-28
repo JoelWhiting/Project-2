@@ -11,6 +11,7 @@ Java installed
 A terminal or IDE (Eclipse)
 
 RUNNING THE PROJECT
+
 Step 1: Compile the Code
 
 In the terminal, navigate to the project directory and compile all .java files:
